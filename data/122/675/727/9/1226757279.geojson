@@ -52,7 +52,7 @@
         "wk:page":"Upper_Pearls"
     },
     "wof:country":"GD",
-    "wof:geomhash":"5961ba85e6ed0357e125f53a17a21aea",
+    "wof:geomhash":"0320d54b3551dbd41dd926874a5836af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -61.61666999999999,
     12.15
 ],
-  "geometry": {"coordinates":[-61.61666999999999,12.15],"type":"Point"}
+  "geometry": {"coordinates":[-61.61667,12.15],"type":"Point"}
 }

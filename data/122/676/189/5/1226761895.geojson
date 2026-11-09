@@ -47,7 +47,7 @@
         "wk:page":"Morne_Longue"
     },
     "wof:country":"GD",
-    "wof:geomhash":"cf2f6a4f6dbaba0103150038272ee5a5",
+    "wof:geomhash":"af37f4e9ca078e7bb6704133ae16517d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -61.68333000000001,
     12.11667
 ],
-  "geometry": {"coordinates":[-61.68333000000001,12.11667],"type":"Point"}
+  "geometry": {"coordinates":[-61.68333,12.11667],"type":"Point"}
 }

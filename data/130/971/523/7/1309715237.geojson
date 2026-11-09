@@ -51,7 +51,7 @@
         "wk:page":"Bacolet,_Grenada"
     },
     "wof:country":"GD",
-    "wof:geomhash":"f56bf42436e385a0e1c8eec88c48b4ef",
+    "wof:geomhash":"ab8ccd645dcc5d6cadc3a6514439bb5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -61.68333000000001,
     12.03333
 ],
-  "geometry": {"coordinates":[-61.68333000000001,12.03333],"type":"Point"}
+  "geometry": {"coordinates":[-61.68333,12.03333],"type":"Point"}
 }

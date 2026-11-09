@@ -50,7 +50,7 @@
         "wk:page":"Becke_Moui"
     },
     "wof:country":"GD",
-    "wof:geomhash":"16c71800f4647cbf780b4874fe034342",
+    "wof:geomhash":"cb90535df3be9a3974b9c680e93e30c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,5 +75,5 @@
     -61.69716999999999,
     12.01725
 ],
-  "geometry": {"coordinates":[-61.69716999999999,12.01725],"type":"Point"}
+  "geometry": {"coordinates":[-61.69717,12.01725],"type":"Point"}
 }

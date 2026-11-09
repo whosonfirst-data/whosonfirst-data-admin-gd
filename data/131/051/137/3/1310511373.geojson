@@ -62,7 +62,7 @@
         "wk:page":"Tivoli%2C_Grenada"
     },
     "wof:country":"GD",
-    "wof:geomhash":"be61f851331b78d4f85615e7602ccd62",
+    "wof:geomhash":"f1d8d99607c2e7448a6e4b1730ad5a91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,5 +87,5 @@
     -61.61666999999999,
     12.16667
 ],
-  "geometry": {"coordinates":[-61.61666999999999,12.16667],"type":"Point"}
+  "geometry": {"coordinates":[-61.61667,12.16667],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "gn:id":3580212
     },
     "wof:country":"GD",
-    "wof:geomhash":"1c5eba49e1b8767c2f5b7ebe5bcb2e4a",
+    "wof:geomhash":"00e6ddd1b7ee1c08c68b7fe879f2bf15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,5 +65,5 @@
     -61.62238000000001,
     12.07883
 ],
-  "geometry": {"coordinates":[-61.62238000000001,12.07883],"type":"Point"}
+  "geometry": {"coordinates":[-61.62238,12.07883],"type":"Point"}
 }

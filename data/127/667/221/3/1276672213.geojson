@@ -41,7 +41,7 @@
         "wk:page":"Paraclete,_Grenada"
     },
     "wof:country":"GD",
-    "wof:geomhash":"85a42560025e04d8823ce4c0b74c7850",
+    "wof:geomhash":"0ae635949b35b9006f4fc90eaf3c9edc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -61.63333000000001,
     12.15
 ],
-  "geometry": {"coordinates":[-61.63333000000001,12.15],"type":"Point"}
+  "geometry": {"coordinates":[-61.63333,12.15],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Elie_Hall"
     },
     "wof:country":"GD",
-    "wof:geomhash":"df65228ae6eda94fc221ef6bc9567c64",
+    "wof:geomhash":"f6cb3a12504fee546e674c5c45c9fc2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -61.63333000000001,
     12.2
 ],
-  "geometry": {"coordinates":[-61.63333000000001,12.2],"type":"Point"}
+  "geometry": {"coordinates":[-61.63333,12.2],"type":"Point"}
 }
