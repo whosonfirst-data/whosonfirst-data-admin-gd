@@ -1,0 +1,72 @@
+{
+  "id": 9895090249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44529,12.45823,-61.44529,12.45823",
+    "geom:latitude":12.45823,
+    "geom:longitude":-61.44529,
+    "iso:country":"GD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13037114: name \"Sabazan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13037114"
+        },
+        {
+            "citation":"GeoNames populated place 13037114: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13037114"
+        },
+        {
+            "citation":"GeoNames populated place 13037114: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13037114"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671605 (Carriacou and Petite Martinique), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632335,
+        85671605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13037114
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"d27fbbe3f0191049cfd6246124b21075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":9895090249,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":9895090249,
+    "wof:lastmodified":1795746178,
+    "wof:name":"Sabazan",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44529,
+    12.45823,
+    -61.44529,
+    12.45823
+],
+  "geometry": {"coordinates":[-61.44529,12.45823],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895090247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38342,12.52523,-61.38342,12.52523",
+    "geom:latitude":12.52523,
+    "geom:longitude":-61.38342,
+    "iso:country":"GD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12949709: name \"Madame Pierre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12949709"
+        },
+        {
+            "citation":"GeoNames populated place 12949709: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12949709"
+        },
+        {
+            "citation":"GeoNames populated place 12949709: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12949709"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671605 (Carriacou and Petite Martinique), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632335,
+        85671605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12949709
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"d629ed7c8844bbe41b0f6ab0c10d20a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":9895090247,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":9895090247,
+    "wof:lastmodified":1795746178,
+    "wof:name":"Madame Pierre",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38342,
+    12.52523,
+    -61.38342,
+    12.52523
+],
+  "geometry": {"coordinates":[-61.38342,12.52523],"type":"Point"}
+}
